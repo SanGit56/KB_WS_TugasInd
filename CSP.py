@@ -1,3 +1,5 @@
+# Sumber: https://www.geeksforgeeks.org/m-coloring-problem/
+
 def isSafe(graph, color):
 	for i in range(6):
 		for j in range(i + 1, 6):

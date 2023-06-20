@@ -1,13 +1,11 @@
+# Sumber: https://www.geeksforgeeks.org/traveling-salesman-problem-using-genetic-algorithm/
+
 from random import randint
 
 INT_MAX = 2147483647
-
 V = 5
-
 GENES = "ABCDE"
-
 START = 0
-
 POP_SIZE = 10
 
 class individual:
