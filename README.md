@@ -1,1 +1,1 @@
-## Radhiyan Muhammad Hisan - 5025211166
+Kumpulan tugas-tugas dari mata kuliah Kecerdasan Buatan
