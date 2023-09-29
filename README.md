@@ -1,1 +1,1 @@
-Kumpulan tugas-tugas dari mata kuliah Kecerdasan Buatan
+Kumpulan tugas-tugas individu dari mata kuliah Kecerdasan Buatan
